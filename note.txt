@@ -1,0 +1,13 @@
+NOTES ON GIT
+
+use "git checkout -- <file>..." to discard changes in working directory. The file is an unstaged file...
+
+use "git config global alias.unstage"
+
+use "git reset --soft HEAD~" to make git see a file as a new file. unstaging the file makes it an untracked file.
+
+use "git rm <file>" to delete a file and staging it. if the file is unstaged [git reset HEAD] and checked-out [git checkout], the file is restored.
+
+*********************************
+
+Now let's see what "git rm --cached <file> does",
