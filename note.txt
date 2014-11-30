@@ -1,5 +1,0 @@
-NOTES ON GIT
-
-use "git checkout -- <file>..." to discard changes in working directory. The file is an unstaged file...
-
-use "git config global alias.unstage"
