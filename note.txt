@@ -14,4 +14,8 @@ Now let's see what "git rm --cached <file> does",
 
 *********************************
 
+
 This change was made in the master branch
+
+This change was made in the feature1 branch
+
