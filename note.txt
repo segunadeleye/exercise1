@@ -11,3 +11,7 @@ use "git rm <file>" to delete a file and staging it. if the file is unstaged [gi
 *********************************
 
 Now let's see what "git rm --cached <file> does",
+
+*********************************
+
+This change was made in the feature1 branch
