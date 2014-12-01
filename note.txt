@@ -8,6 +8,8 @@ use "git reset --soft HEAD~" to make git see a file as a new file. unstaging the
 
 use "git rm <file>" to delete a file and staging it. if the file is unstaged [git reset HEAD] and checked-out [git checkout], the file is restored.
 
+use "git reset HEAD^" to undo  the last commit and unstage the last committed files. Then use "git checkout <file>" to undo the changes made.
+
 *********************************
 
 Now let's see what "git rm --cached <file> does",
