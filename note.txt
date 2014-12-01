@@ -19,3 +19,4 @@ This change was made in the master branch
 
 This change was made in the feature1 branch
 
+Now let us see what the magical rebase does...
